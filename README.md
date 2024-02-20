@@ -1,5 +1,5 @@
 # OSINT-Hub
-Websites:
+Websites:  
 https://www.axios.com/  
 https://www.genians.co.kr/blog/  
 https://www.microsoft.com/en-us/security/blog/  
@@ -10,3 +10,6 @@ https://www.darkreading.com/
 https://thehackernews.com/  
 https://www.cybersecuritydive.com/  
 https://www.cisa.gov/news-events/cybersecurity-advisories/  
+https://nattothoughts.substack.com/  
+https://intrusiontruth.wordpress.com/  
+https://cybernews.com/  
